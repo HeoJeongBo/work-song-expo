@@ -36,3 +36,14 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+# Android & iOS folders
+/android/
+/ios/
+
+# environment variables
+.env
+.env.*
+
+# Firebase (Android) Google services
+google-services.json
